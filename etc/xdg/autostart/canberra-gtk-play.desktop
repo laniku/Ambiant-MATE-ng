@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/canberra-gtk-play --file=/usr/share/sounds/Ubuntu/stereo/desktop-login.ogg --description="GNOME Login"
+Hidden=false
+Name[en_US]=GNOME Login Sound
+Name=GNOME Login Sound
+Comment[en_US]=
+Comment=
+X-MATE-Autostart-Delay=0
