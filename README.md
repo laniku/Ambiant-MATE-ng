@@ -51,6 +51,7 @@ The theme and icons are licensed under [CC-BY-SA-3.0](https://creativecommons.or
 ## Credits
 
 Credits to [LatteMangoFox](https://github.com/LatteMangoFox), [kevadesu](https://github.com/kevadesu) and [Lucas](https://github.com/laniku) for the Ambiant-MATE-ng project
+
 Credits to [lah7/Ambiant-MATE](https://github.com/lah7/Ambiant-MATE) for the original project
 
 ## Additional credits
