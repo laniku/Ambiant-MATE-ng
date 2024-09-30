@@ -47,3 +47,13 @@ can create colour variants of this theme by patching the MATE green for somethin
 ## License
 
 The theme and icons are licensed under [CC-BY-SA-3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+
+## Credits
+
+Credits to [LatteMangoFox](https://github.com/LatteMangoFox), [kevadesu](https://github.com/kevadesu) and [Lucas](https://github.com/laniku) for the Ambiant-MATE-ng project
+
+Credits to [lah7/Ambiant-MATE](https://github.com/lah7/Ambiant-MATE) for the original project
+
+## Additional credits
+
+Additional credits to WindowsAesthetics on DeviantArt for [The OS Sound Kit](https://www.deviantart.com/windowsaesthetics/art/The-OS-Sound-Kit-758673981), which has been used to add sounds.
